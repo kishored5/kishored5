@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\bin\Debug\Agreegatefor sumof numbers.exe.config
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\bin\Debug\Agreegatefor sumof numbers.exe
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\bin\Debug\Agreegatefor sumof numbers.pdb
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\obj\Debug\Agreegatefor sumof numbers.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\obj\Debug\Agreegatefor sumof numbers.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\obj\Debug\Agreegatefor sumof numbers.exe
+C:\Users\dk46219\source\repos\New_RDP\Agreegatefor sumof numbers\obj\Debug\Agreegatefor sumof numbers.pdb
