@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP\Booksales\bin\Debug\Booksales.exe.config
+C:\Users\dk46219\source\repos\New_RDP\Booksales\bin\Debug\Booksales.exe
+C:\Users\dk46219\source\repos\New_RDP\Booksales\bin\Debug\Booksales.pdb
+C:\Users\dk46219\source\repos\New_RDP\Booksales\obj\Debug\Booksales.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP\Booksales\obj\Debug\Booksales.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\Booksales\obj\Debug\Booksales.exe
+C:\Users\dk46219\source\repos\New_RDP\Booksales\obj\Debug\Booksales.pdb

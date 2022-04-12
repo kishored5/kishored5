@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\bin\Debug\arraytypes.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\bin\Debug\arraytypes.exe
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\bin\Debug\arraytypes.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\obj\Debug\arraytypes.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\obj\Debug\arraytypes.exe
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\obj\Debug\arraytypes.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\arraytypes\obj\Debug\arraytypes.csproj.AssemblyReference.cache
