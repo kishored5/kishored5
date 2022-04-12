@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\bin\Debug\listtypes.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\bin\Debug\listtypes.exe
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\bin\Debug\listtypes.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\obj\Debug\listtypes.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\obj\Debug\listtypes.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\obj\Debug\listtypes.exe
+C:\Users\dk46219\source\repos\NewRDP_1\listtypes\obj\Debug\listtypes.pdb

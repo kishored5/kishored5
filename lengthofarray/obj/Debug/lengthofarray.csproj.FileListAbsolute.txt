@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\lengthofarray\bin\Debug\lengthofarray.exe.config
+C:\Users\dk46219\source\repos\New_RDP\lengthofarray\bin\Debug\lengthofarray.exe
+C:\Users\dk46219\source\repos\New_RDP\lengthofarray\bin\Debug\lengthofarray.pdb
+C:\Users\dk46219\source\repos\New_RDP\lengthofarray\obj\Debug\lengthofarray.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\lengthofarray\obj\Debug\lengthofarray.exe
+C:\Users\dk46219\source\repos\New_RDP\lengthofarray\obj\Debug\lengthofarray.pdb

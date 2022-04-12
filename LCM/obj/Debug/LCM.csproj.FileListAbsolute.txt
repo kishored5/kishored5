@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\LCM\bin\Debug\LCM.exe.config
+C:\Users\dk46219\source\repos\New_RDP\LCM\bin\Debug\LCM.exe
+C:\Users\dk46219\source\repos\New_RDP\LCM\bin\Debug\LCM.pdb
+C:\Users\dk46219\source\repos\New_RDP\LCM\obj\Debug\LCM.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\LCM\obj\Debug\LCM.exe
+C:\Users\dk46219\source\repos\New_RDP\LCM\obj\Debug\LCM.pdb

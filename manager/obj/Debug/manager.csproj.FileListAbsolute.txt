@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\obj\Debug\manager.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\obj\Debug\manager.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\bin\Debug\manager.exe.config
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\bin\Debug\manager.exe
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\bin\Debug\manager.pdb
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\obj\Debug\manager.exe
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\manager\obj\Debug\manager.pdb
