@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\bin\Debug\Fibnocci.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\bin\Debug\Fibnocci.exe
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\bin\Debug\Fibnocci.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\obj\Debug\Fibnocci.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\obj\Debug\Fibnocci.exe
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\obj\Debug\Fibnocci.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\Fibnocci\obj\Debug\Fibnocci.csproj.AssemblyReference.cache

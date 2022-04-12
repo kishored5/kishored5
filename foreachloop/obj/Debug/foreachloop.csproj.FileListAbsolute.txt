@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\foreachloop\bin\Debug\foreachloop.exe.config
+C:\Users\dk46219\source\repos\New_RDP\foreachloop\bin\Debug\foreachloop.exe
+C:\Users\dk46219\source\repos\New_RDP\foreachloop\bin\Debug\foreachloop.pdb
+C:\Users\dk46219\source\repos\New_RDP\foreachloop\obj\Debug\foreachloop.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\foreachloop\obj\Debug\foreachloop.exe
+C:\Users\dk46219\source\repos\New_RDP\foreachloop\obj\Debug\foreachloop.pdb

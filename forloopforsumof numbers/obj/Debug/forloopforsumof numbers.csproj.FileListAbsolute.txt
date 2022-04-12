@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\bin\Debug\forloopforsumof numbers.exe.config
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\bin\Debug\forloopforsumof numbers.exe
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\bin\Debug\forloopforsumof numbers.pdb
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\obj\Debug\forloopforsumof numbers.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\obj\Debug\forloopforsumof numbers.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\obj\Debug\forloopforsumof numbers.exe
+C:\Users\dk46219\source\repos\New_RDP\forloopforsumof numbers\obj\Debug\forloopforsumof numbers.pdb

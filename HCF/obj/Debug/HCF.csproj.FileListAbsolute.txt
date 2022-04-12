@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\HCF\bin\Debug\HCF.exe.config
+C:\Users\dk46219\source\repos\New_RDP\HCF\bin\Debug\HCF.exe
+C:\Users\dk46219\source\repos\New_RDP\HCF\bin\Debug\HCF.pdb
+C:\Users\dk46219\source\repos\New_RDP\HCF\obj\Debug\HCF.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\HCF\obj\Debug\HCF.exe
+C:\Users\dk46219\source\repos\New_RDP\HCF\obj\Debug\HCF.pdb
