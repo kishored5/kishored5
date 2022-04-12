@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\NewRDP_1\cyientarray\bin\Debug\cyientarray.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\cyientarray\bin\Debug\cyientarray.exe
+C:\Users\dk46219\source\repos\NewRDP_1\cyientarray\bin\Debug\cyientarray.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\cyientarray\obj\Debug\cyientarray.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\cyientarray\obj\Debug\cyientarray.exe
+C:\Users\dk46219\source\repos\NewRDP_1\cyientarray\obj\Debug\cyientarray.pdb

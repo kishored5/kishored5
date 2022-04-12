@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\calculatorwithswitch\bin\Debug\calculatorwithswitch.exe.config
+C:\Users\dk46219\source\repos\New_RDP\calculatorwithswitch\bin\Debug\calculatorwithswitch.exe
+C:\Users\dk46219\source\repos\New_RDP\calculatorwithswitch\bin\Debug\calculatorwithswitch.pdb
+C:\Users\dk46219\source\repos\New_RDP\calculatorwithswitch\obj\Debug\calculatorwithswitch.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\calculatorwithswitch\obj\Debug\calculatorwithswitch.exe
+C:\Users\dk46219\source\repos\New_RDP\calculatorwithswitch\obj\Debug\calculatorwithswitch.pdb

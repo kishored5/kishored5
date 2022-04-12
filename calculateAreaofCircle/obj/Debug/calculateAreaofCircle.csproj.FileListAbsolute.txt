@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\calculateAreaofCircle\bin\Debug\calculateAreaofCircle.exe.config
+C:\Users\dk46219\source\repos\New_RDP\calculateAreaofCircle\bin\Debug\calculateAreaofCircle.exe
+C:\Users\dk46219\source\repos\New_RDP\calculateAreaofCircle\bin\Debug\calculateAreaofCircle.pdb
+C:\Users\dk46219\source\repos\New_RDP\calculateAreaofCircle\obj\Debug\calculateAreaofCircle.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\calculateAreaofCircle\obj\Debug\calculateAreaofCircle.exe
+C:\Users\dk46219\source\repos\New_RDP\calculateAreaofCircle\obj\Debug\calculateAreaofCircle.pdb

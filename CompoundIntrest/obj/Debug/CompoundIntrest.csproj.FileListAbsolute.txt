@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\CompoundIntrest\bin\Debug\CompoundIntrest.exe.config
+C:\Users\dk46219\source\repos\New_RDP\CompoundIntrest\bin\Debug\CompoundIntrest.exe
+C:\Users\dk46219\source\repos\New_RDP\CompoundIntrest\bin\Debug\CompoundIntrest.pdb
+C:\Users\dk46219\source\repos\New_RDP\CompoundIntrest\obj\Debug\CompoundIntrest.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\CompoundIntrest\obj\Debug\CompoundIntrest.exe
+C:\Users\dk46219\source\repos\New_RDP\CompoundIntrest\obj\Debug\CompoundIntrest.pdb

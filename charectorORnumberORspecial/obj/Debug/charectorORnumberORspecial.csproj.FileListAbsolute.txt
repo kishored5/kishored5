@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\bin\Debug\charectorORnumberORspecial.exe.config
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\bin\Debug\charectorORnumberORspecial.exe
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\bin\Debug\charectorORnumberORspecial.pdb
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\obj\Debug\charectorORnumberORspecial.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\obj\Debug\charectorORnumberORspecial.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\obj\Debug\charectorORnumberORspecial.exe
+C:\Users\dk46219\source\repos\New_RDP\charectorORnumberORspecial\obj\Debug\charectorORnumberORspecial.pdb
