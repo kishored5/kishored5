@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\bin\Debug\DAysinMonth.exe.config
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\bin\Debug\DAysinMonth.exe
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\bin\Debug\DAysinMonth.pdb
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\obj\Debug\DAysinMonth.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\obj\Debug\DAysinMonth.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\obj\Debug\DAysinMonth.exe
+C:\Users\dk46219\source\repos\New_RDP\DAysinMonth\obj\Debug\DAysinMonth.pdb

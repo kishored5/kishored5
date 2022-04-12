@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\dk46219\source\repos\New_RDP\Factorial\bin\Debug\Factorial.exe
+C:\Users\dk46219\source\repos\New_RDP\Factorial\bin\Debug\Factorial.pdb
+C:\Users\dk46219\source\repos\New_RDP\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\Factorial\obj\Debug\Factorial.exe
+C:\Users\dk46219\source\repos\New_RDP\Factorial\obj\Debug\Factorial.pdb

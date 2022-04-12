@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\EvenOROdd\bin\Debug\EvenOROdd.exe.config
+C:\Users\dk46219\source\repos\New_RDP\EvenOROdd\bin\Debug\EvenOROdd.exe
+C:\Users\dk46219\source\repos\New_RDP\EvenOROdd\bin\Debug\EvenOROdd.pdb
+C:\Users\dk46219\source\repos\New_RDP\EvenOROdd\obj\Debug\EvenOROdd.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\EvenOROdd\obj\Debug\EvenOROdd.exe
+C:\Users\dk46219\source\repos\New_RDP\EvenOROdd\obj\Debug\EvenOROdd.pdb

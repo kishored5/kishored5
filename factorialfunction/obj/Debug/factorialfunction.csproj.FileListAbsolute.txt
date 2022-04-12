@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\bin\Debug\factorialfunction.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\bin\Debug\factorialfunction.exe
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\bin\Debug\factorialfunction.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\obj\Debug\factorialfunction.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\obj\Debug\factorialfunction.exe
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\obj\Debug\factorialfunction.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\factorialfunction\obj\Debug\factorialfunction.csproj.AssemblyReference.cache
