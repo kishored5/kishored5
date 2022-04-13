@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\power using while and for loop\bin\Debug\power using while and for loop.exe.config
+C:\Users\dk46219\source\repos\New_RDP\power using while and for loop\bin\Debug\power using while and for loop.exe
+C:\Users\dk46219\source\repos\New_RDP\power using while and for loop\bin\Debug\power using while and for loop.pdb
+C:\Users\dk46219\source\repos\New_RDP\power using while and for loop\obj\Debug\power using while and for loop.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\power using while and for loop\obj\Debug\power using while and for loop.exe
+C:\Users\dk46219\source\repos\New_RDP\power using while and for loop\obj\Debug\power using while and for loop.pdb

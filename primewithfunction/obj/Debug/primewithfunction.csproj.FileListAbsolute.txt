@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\bin\Debug\primewithfunction.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\bin\Debug\primewithfunction.exe
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\bin\Debug\primewithfunction.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\obj\Debug\primewithfunction.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\obj\Debug\primewithfunction.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\obj\Debug\primewithfunction.exe
+C:\Users\dk46219\source\repos\NewRDP_1\primewithfunction\obj\Debug\primewithfunction.pdb

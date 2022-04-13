@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\New_RDP\print sum of digits enter by user\bin\Debug\print sum of digits enter by user.exe.config
+C:\Users\dk46219\source\repos\New_RDP\print sum of digits enter by user\bin\Debug\print sum of digits enter by user.exe
+C:\Users\dk46219\source\repos\New_RDP\print sum of digits enter by user\bin\Debug\print sum of digits enter by user.pdb
+C:\Users\dk46219\source\repos\New_RDP\print sum of digits enter by user\obj\Debug\print sum of digits enter by user.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\print sum of digits enter by user\obj\Debug\print sum of digits enter by user.exe
+C:\Users\dk46219\source\repos\New_RDP\print sum of digits enter by user\obj\Debug\print sum of digits enter by user.pdb
