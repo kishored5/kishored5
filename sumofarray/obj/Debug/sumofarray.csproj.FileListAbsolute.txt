@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\bin\Debug\sumofarray.exe.config
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\bin\Debug\sumofarray.exe
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\bin\Debug\sumofarray.pdb
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\obj\Debug\sumofarray.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\obj\Debug\sumofarray.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\obj\Debug\sumofarray.exe
+C:\Users\dk46219\source\repos\New_RDP\sumofarray\obj\Debug\sumofarray.pdb

@@ -1,0 +1,6 @@
+C:\Users\dk46219\source\repos\NewRDP_1\sumofdigits\bin\Debug\sumofdigits.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\sumofdigits\bin\Debug\sumofdigits.exe
+C:\Users\dk46219\source\repos\NewRDP_1\sumofdigits\bin\Debug\sumofdigits.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\sumofdigits\obj\Debug\sumofdigits.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\sumofdigits\obj\Debug\sumofdigits.exe
+C:\Users\dk46219\source\repos\NewRDP_1\sumofdigits\obj\Debug\sumofdigits.pdb
