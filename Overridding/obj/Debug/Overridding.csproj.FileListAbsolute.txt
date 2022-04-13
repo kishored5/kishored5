@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\obj\Debug\Overridding.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\obj\Debug\Overridding.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\bin\Debug\Overridding.exe.config
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\bin\Debug\Overridding.exe
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\bin\Debug\Overridding.pdb
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\obj\Debug\Overridding.exe
+C:\Users\dk46219\source\repos\New_RDP_Inheritance\Overridding\obj\Debug\Overridding.pdb

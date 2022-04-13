@@ -1,0 +1,7 @@
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\bin\Debug\NewRDP_1.exe.config
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\bin\Debug\NewRDP_1.exe
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\bin\Debug\NewRDP_1.pdb
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\obj\Debug\NewRDP_1.csproj.AssemblyReference.cache
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\obj\Debug\NewRDP_1.csproj.CoreCompileInputs.cache
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\obj\Debug\NewRDP_1.exe
+C:\Users\dk46219\source\repos\NewRDP_1\NewRDP_1\obj\Debug\NewRDP_1.pdb
